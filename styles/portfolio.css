@@ -173,3 +173,28 @@ main section {
     border-radius: 5px;
     box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
 }
+
+/* resume section styles */
+.resume{
+    text-align: center;
+    margin: 130px;
+}
+.resume-container{
+    display: flex;
+    text-align: left;
+    gap: 24px;
+}
+.experience-sub-title{
+    font-size: 16px;
+    margin-top: 8px;
+}
+.experience-title{
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.experience-description{
+    margin-bottom: 30px;
+}
+.resume-btn{
+    margin-top: 30px;
+}
